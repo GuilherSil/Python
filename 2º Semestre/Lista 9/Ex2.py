@@ -1,0 +1,2 @@
+def getDimensao(mat):
+    return
